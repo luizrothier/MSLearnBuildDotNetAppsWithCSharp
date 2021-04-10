@@ -3,6 +3,6 @@ Tutorial do Microsoft Learn [Build .NET applications with C#](https://docs.micro
 
 Usa VS Code com a extensão de C# da Microsoft (não usar Visual Studio). A extensão de C# para VS Code da Microsft, em https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
--Item 1
--Item 2
+- Item 1
+- Item 2
 
