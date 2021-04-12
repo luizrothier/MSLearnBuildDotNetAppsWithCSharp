@@ -34,6 +34,7 @@ Dúvida
 
 The number of listed dependencies might not tell the whole truth. If you download a package, you might end up with a package dependency that contains dozens of packages. Why is that? Every package has a list of dependencies. To ensure that you can use a package, all dependencies are crawled and downloaded when you run the dotnet add package <package name> command.
 
+
 NuGet registry and dotnet tool
 
 When you run dotnet add package <name of dependency>, .NET goes to a global registry called the NuGet.org registry and looks for the code to download. It's located at https://nuget.org. You can also browse through this page for packages, if you visit it by using a browser. Every package has a dedicated website that you can go to.
