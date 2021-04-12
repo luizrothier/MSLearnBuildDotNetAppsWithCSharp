@@ -39,7 +39,7 @@ NuGet registry and dotnet tool
 
 When you run dotnet add package <name of dependency>, .NET goes to a global registry called the NuGet.org registry and looks for the code to download. It's located at https://nuget.org. You can also browse through this page for packages, if you visit it by using a browser. Every package has a dedicated website that you can go to.
 
-## Unit 7 of 7
+### Unit 7 of 7
 Additional resources
 - Review the official [NuGet documentation](https://docs.microsoft.com/en-us/nuget/).
 - Review the official [.NET Core CLI documentation](https://docs.microsoft.com/en-us/dotnet/core/tools/).
@@ -51,5 +51,26 @@ Obs.: Incluido o commando
 ```
 dotnet new gitignore
 ```
+
+## Module: ## Module: [Interactively debug .NET apps with the Visual Studio Code debugger](https://docs.microsoft.com/en-us/learn/modules/dotnet-debug/)
+### Unit 4 of 8
+```
+dotnet new console
+```
+
+
+```
+dotnet run
+```
+
+O comando abaixo deve ser executado para suprimir o que não edve ir para o github
+```
+dotnet new gitignore
+```
+
+
+
+
+
 
 
