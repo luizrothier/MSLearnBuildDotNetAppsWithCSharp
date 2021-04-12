@@ -44,5 +44,5 @@ Additional resources
 •	Try Visual Studio Code for editing text and code files.
 
 Obs.: Incluido o commando
-dotnet new gitignore
+__dotnet new gitignore__
 
