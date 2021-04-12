@@ -37,11 +37,11 @@ When you run dotnet add package <name of dependency>, .NET goes to a global regi
 
 ## Unit 7 of 7
 Additional resources
-•	Review the official NuGet documentation.
-•	Review the official .NET Core CLI documentation.
-•	Browse packages available on NuGet.
-•	Check the .NET website for all things .NET.
-•	Try Visual Studio Code for editing text and code files.
+- Review the official NuGet documentation.
+- Review the official .NET Core CLI documentation.
+- Browse packages available on NuGet.
+- Check the .NET website for all things .NET.
+- Try Visual Studio Code for editing text and code files.
 
 Obs.: Incluido o commando
 ```
