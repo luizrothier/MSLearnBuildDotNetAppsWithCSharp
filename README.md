@@ -45,7 +45,7 @@ Additional resources
 
 Obs.: Incluido o commando
 ```
-__dotnet new gitignore__
+dotnet new gitignore
 ```
 
 
