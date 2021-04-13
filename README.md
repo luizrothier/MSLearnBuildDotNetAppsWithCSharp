@@ -5,7 +5,7 @@ Usa VS Code com a extensão de C# da Microsoft (não usar Visual Studio). A exte
 
 
 
-## Module: Introduction to .NET
+## Module: [Introduction to .NET](https://docs.microsoft.com/en-us/learn/modules/dotnet-introduction/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.build-dotnet-applications-csharp)
 ### Unit 3 of 7
 #### Tip
 
@@ -24,7 +24,7 @@ In this module, you use a built-in version of Try .NET. If you want to experimen
 The Azure SDK for .NET allows developers to provision and manage Azure resources. Alternatively, Azure App Service and Azure Functions can host applications that are built by using .NET languages.
 ML.NET is a free machine learning library for .NET languages. It enables model-based capabilities for machine learning analysis and prediction.
 
-## Module: Create a new .NET project and work with dependencies
+## Module: [Create a new .NET project and work with dependencies](https://docs.microsoft.com/en-us/learn/modules/dotnet-dependencies/?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.build-dotnet-applications-csharp)
 ### Unit 2 of 7
 #### Evaluate a package
 
@@ -52,7 +52,7 @@ Obs.: Incluido o commando
 dotnet new gitignore
 ```
 
-## Module: Module: [Interactively debug .NET apps with the Visual Studio Code debugger](https://docs.microsoft.com/en-us/learn/modules/dotnet-debug/)
+## Module: [Interactively debug .NET apps with the Visual Studio Code debugger](https://docs.microsoft.com/en-us/learn/modules/dotnet-debug/)
 ### Unit 4 of 8
 ```
 dotnet new console
@@ -83,6 +83,8 @@ Continue learning more about .NET debugging with:
 - [Tutorial: Debug a .NET Core console application using Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code)
 - [Tutorial: Debug a .NET Core console application using Visual Studio](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio)
 - [Tutorial: Debug a .NET Core console application using Visual Studio for Mac](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-mac)
+
+## Module: [Work with files and directories in a .NET app](https://docs.microsoft.com/en-us/learn/modules/dotnet-files/)
 
 
 
