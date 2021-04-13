@@ -88,6 +88,10 @@ Continue learning more about .NET debugging with:
 
 
 
+## Module: [Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/learn/modules/build-web-api-aspnet-core/)
+
+
+
 
 
 
