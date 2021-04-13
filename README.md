@@ -3,8 +3,7 @@ Tutorial do Microsoft Learn [Build .NET applications with C#](https://docs.micro
 
 Usa VS Code com a extensão de C# da Microsoft (não usar Visual Studio). A extensão de C# para VS Code da Microsft, em https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
-- Item 1
-- Item 2
+
 
 ## Module: Introduction to .NET
 ### Unit 3 of 7
@@ -53,7 +52,7 @@ Obs.: Incluido o commando
 dotnet new gitignore
 ```
 
-## Module: ## Module: [Interactively debug .NET apps with the Visual Studio Code debugger](https://docs.microsoft.com/en-us/learn/modules/dotnet-debug/)
+## Module: Module: [Interactively debug .NET apps with the Visual Studio Code debugger](https://docs.microsoft.com/en-us/learn/modules/dotnet-debug/)
 ### Unit 4 of 8
 ```
 dotnet new console
@@ -69,6 +68,21 @@ O comando abaixo deve ser executado para suprimir o que não edve ir para o gith
 dotnet new gitignore
 ```
 
+### Unit 6 of 8
+Dúvida
+
+Não consegui reproduzir os resultados. Refazer!!!
+
+
+### Unit 8 of 8
+#### Next steps
+Continue learning more about .NET debugging with:
+
+- [Visual Studio Code debugging](https://code.visualstudio.com/docs/editor/debugging)
+- [Working with C# in Visual Studio Code](https://code.visualstudio.com/Docs/languages/csharp)
+- [Tutorial: Debug a .NET Core console application using Visual Studio Code](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-code)
+- [Tutorial: Debug a .NET Core console application using Visual Studio](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio)
+- [Tutorial: Debug a .NET Core console application using Visual Studio for Mac](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-mac)
 
 
 
