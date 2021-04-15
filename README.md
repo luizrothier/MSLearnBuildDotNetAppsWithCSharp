@@ -85,6 +85,12 @@ Continue learning more about .NET debugging with:
 - [Tutorial: Debug a .NET Core console application using Visual Studio for Mac](https://docs.microsoft.com/en-us/dotnet/core/tutorials/debugging-with-visual-studio-mac)
 
 ## Module: [Work with files and directories in a .NET app](https://docs.microsoft.com/en-us/learn/modules/dotnet-files/)
+Passos:
+1. Criar o branch
+2. Criar a pasta
+3. Abrir o VS Code na nova pasta criada
+4. No terminal do VS Code, digitar git clone https://github.com/MicrosoftDocs/mslearn-dotnet-files && cd mslearn-dotnet-files
+
 
 
 
