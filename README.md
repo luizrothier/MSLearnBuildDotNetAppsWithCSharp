@@ -93,6 +93,9 @@ Passos:
 5. No terminal do VS Code, digiar dotnet new console -n files-module -o .
 
 
+Obs.: Não rodar o git init, pois a pasta já está abaixo da raiz.
+
+
 
 
 
