@@ -90,6 +90,8 @@ Passos:
 2. Criar a pasta
 3. Abrir o VS Code na nova pasta criada
 4. No terminal do VS Code, digitar git clone https://github.com/MicrosoftDocs/mslearn-dotnet-files && cd mslearn-dotnet-files
+5. No terminal do VS Code, digiar dotnet new console -n files-module -o .
+
 
 
 
